@@ -51,7 +51,7 @@ async Task imagem(string prompt)
     using (var client = new HttpClient())
     {
         client.DefaultRequestHeaders.Add("Authorization", "Bearer " + apiKey);
-        var response = await client.PostAsync("https://api.openai.com/v1/generations",
+        var response = await client.PostAsync("https://api.openai.com/v1/images/generations",
             new StringContent("{\"prompt\": \"" + prompt + "\", \"n\": 1, \"size\": \"1024x1024\"}",
             Encoding.UTF8, "application/json"));
 
