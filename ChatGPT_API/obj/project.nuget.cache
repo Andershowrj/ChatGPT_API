@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnG2ZUfKcB1pQZZ9Itft/Gd039jT4/YfS8HtSsUfCVit+dGEWl6oHsxozQLSMBkUy50KpZihpmSLUf9nLpsHgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anderson\\Documents\\Visual Studio 2022\\Projetos\\ChatGPT_API\\ChatGPT_API\\ChatGPT_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Anderson\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Anderson\\.nuget\\packages\\openai.api\\1.0.0\\openai.api.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
