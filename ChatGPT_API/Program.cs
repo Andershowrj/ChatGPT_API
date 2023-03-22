@@ -2,6 +2,7 @@
 using System.Text.Json;
 
 string apiKey = "Chave_API_aqui";
+//Apenas para reposição (IGNORE ESTA LINHA) Chave_API_aqui
 
 while (true)
 {
